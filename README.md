@@ -26,3 +26,6 @@ Matplotlib
 Input: "Congratulations! You won a lottery"
 
 Output: Spam Email
+## Model Performance
+
+![Confusion Matrix](confusion_matrix_email_detection.png)
